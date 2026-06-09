@@ -12,9 +12,9 @@ const ROLES = [
 ];
 
 const STATS = [
-  { label: "PROJECTS DEPLOYED", value: "25+", icon: Cpu },
-  { label: "AI MODELS BUILT", value: "12+", icon: Zap },
-  { label: "YEARS EXPERIENCE", value: "3+", icon: Shield },
+  { label: "PROJECTS DEPLOYED", value: "15+", icon: Cpu },
+  { label: "AI MODELS BUILT", value: "8+", icon: Zap },
+  { label: "EXPERIENCE", value: "FRESHER", icon: Shield },
 ];
 
 // Typewriter cursor
@@ -321,7 +321,7 @@ export default function HeroSection() {
             }}
           >
             Building intelligent systems at the intersection of computer vision, LLMs,
-            and scalable full-stack architecture. 3+ years engineering production AI solutions
+            and scalable full-stack architecture. Passionate fresher ready to engineer production AI solutions
             that push the boundaries of what machines can perceive and decide.
           </motion.p>
 
